@@ -1,0 +1,58 @@
+{
+  "jobs": [
+    {
+      "position": "Frontend Developer",
+      "company": "IBM",
+      "location": "İzmir/Urla",
+      "status": "Continue",
+      "type": "Remote",
+      "id": "96c452ae-88ce-431c-8a7d-144ed6adfc42",
+      "date": 1712643002478
+    },
+    {
+      "position": "Product Manager",
+      "company": "Udemig",
+      "location": "Redmond",
+      "status": "Denied",
+      "type": "Part-Time",
+      "id": "6b94a2d3-0571-412b-81e0-910d99a2f057",
+      "date": 1712607002328
+    },
+    {
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Menlo Park",
+      "status": "Continue",
+      "type": "Part-Time",
+      "id": "ec72d702-ff65-46e4-bc4c-0ee6d3660913",
+      "date": 1715607078538
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Udemig",
+      "location": "İstanbul",
+      "status": "Interview",
+      "type": "Full-Time",
+      "id": "b7f2b2dc-7b84-41e5-bbbe-5850785f02d6",
+      "date": 1716756086117
+    },
+    {
+      "position": "Marketing Manager",
+      "company": "Emartech",
+      "location": "İstanbul",
+      "status": "Interview",
+      "type": "Full-Time",
+      "id": "f983034e-5d76-4317-8368-502c4c8a8e78",
+      "date": 1716756646867
+    },
+    {
+      "id": "336d7be2-e926-497b-a830-89aac488449c",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "location": "Ankara",
+      "status": "Continue",
+      "type": "Full-Time",
+      "date": 1719963508313
+    }
+  ]
+}
