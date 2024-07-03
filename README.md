@@ -31,7 +31,7 @@ This project is a job listing application built using Redux Toolkit, React, and 
 
 ## Deployment
 
-The project is deployed and can be accessed [here]().
+The project is deployed and can be accessed [here](https://graceful-centaur-5472a6.netlify.app/).
 
 ## Installation
 
