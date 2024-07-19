@@ -1,4 +1,3 @@
-/* eslint-disable react/prop-types */
 import { MdLocationPin } from "react-icons/md";
 import DelButton from "./DelButton";
 import { FaCalendarAlt, FaSuitcase } from "react-icons/fa";
