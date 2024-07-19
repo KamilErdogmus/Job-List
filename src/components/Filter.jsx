@@ -66,18 +66,14 @@ const Filter = () => {
       status: status || undefined,
     };
 
-    console.log("Fetching jobs with params:", params); // Debug log
-
     dispatch(setLoading());
 
     api
       .get("/jobs", { params })
       .then((res) => {
-        console.log("API response:", res.data); // Debug log
         dispatch(setJobs(res.data));
       })
       .catch((err) => {
-        console.error("API error:", err);
         dispatch(setError(err.message));
       });
   }, [debouncedText, type, status, sort]);
