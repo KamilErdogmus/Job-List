@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export default axios.create({
-  baseURL: "https://https://job-list-bice.vercel.app/",
+  baseURL: "https://job-list-bice.vercel.app/",
 });
 
 const jsonServer = require("json-server");
